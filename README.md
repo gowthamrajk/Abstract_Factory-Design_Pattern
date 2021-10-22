@@ -1,1 +1,3 @@
 # Abstract_Factory-Design_Pattern
+
+- This module gives a demo on Abstract Factory Design Pattern in JAVA with its implementation code, why to use it, where to use it, advantages & disadvantages, how to implement, etc...
